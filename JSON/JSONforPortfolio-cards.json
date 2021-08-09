@@ -1,0 +1,242 @@
+{
+    "api": [
+        {
+            "title": "New York Times API",
+            "exerpt": "Create a website using the NYT API.",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "Open Weather",
+            "exerpt": "Create a website using the Open Weather API.",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "c": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "css": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "figma": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "html": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "javascript": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "markup": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "php": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "python": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "sql": [
+        {
+            "title": "Registration and Login",
+            "exerpt": "",
+            "image": "img/loginAndRegistration.JPG",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "ux": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ],
+    "wordpress": [
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "exerpt": "",
+            "image": "",
+            "link": ""
+        }
+    ]
+}

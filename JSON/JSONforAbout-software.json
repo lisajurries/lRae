@@ -1,0 +1,153 @@
+{
+    "software": [
+        {
+            "name": "ADP Payroll",
+            "type": "HR & Payroll",
+            "image": "https://mediacenter.adp.com/images/logo-adp-fy19.svg",
+            "use": "Multi-state payroll, paid-time-off, direct-deposit, quarterly payroll taxes.",
+            "time": "5-years",
+            "location": [
+                "PayRange"
+            ]
+        },
+        {
+            "name": "Asana",
+            "type": "Project Management",
+            "image": "https://luna1.co/567e9a.png",
+            "use": "Manage projects, organize and assign tasks and subtasks, track progress, monitor deadlines.",
+            "time": "5-years",
+            "location": [
+                "PayRange",
+                "Autobidmaster"
+            ]
+        },
+        {
+            "name": "BambooHR",
+            "type": "HR Management",
+            "image": "https://www.bamboohr.com/images/global-logos/bamboohr-logo-main.svg",
+            "use": "Data & analytics, hiring, onboarding, compensation, culture.",
+            "time": "5-years",
+            "location": [
+                "PayRange"
+            ]
+        },
+        {
+            "name": "Fishbowl Inventory",
+            "type": "Inventory Management",
+            "image": "https://www.fishbowlinventory.com/themes/custom/fishbowl/images/logo.png",
+            "use": "Order management, inventory management, warehouse management, shipping.",
+            "time": "5-years",
+            "location": [
+                "PayRange"
+            ]
+        },
+        {
+            "name": "Jira Software",
+            "type": "Software issue-tracking",
+            "image": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1664",
+            "use": "Plan, track, release, and report for the development process. Document with Confluence.",
+            "time": "1-year",
+            "location": [
+                "Autobidmaster",
+                "EasyHaul",
+                "ClearVin",
+                "SalvageBid"
+            ]
+        },
+        {
+            "name": "Microsoft Office",
+            "type": "Productivity",
+            "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWCZER?ver=2918&q=90&m=6&h=157&w=279&b=%23FFFFFFFF&l=f&o=t&aim=true",
+            "use": "Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Publisher, SharePoint.",
+            "time": "15-years",
+            "location": [
+                "Courtesy Vending",
+                "VendScreen",
+                "PayRange",
+                "Autobidmaster"
+            ]
+        },
+        {
+            "name": "NetSuite",
+            "type": "Enterprise Resource Planning",
+            "image": "https://www.netsuite.com/portal/assets/img/Oracle-NetSuite-Logo-white.svg",
+            "use": "Accounts payable and receivable, payroll, order management, supply chain, procurement.",
+            "time": "1-year",
+            "location": [
+                "VendScreen"
+            ]
+        },
+        {
+            "name": "Quickbooks",
+            "type": "HR Management",
+            "image": "https://quickbooks.intuit.com/cas/dam/IMAGE/A2T6NMEQp/Intuit-Blue.Intuit-RGB-Blue.svg",
+            "use": "Accounts payable and receivable, chart of accounts, payroll, quarterly taxes.",
+            "time": "10-years",
+            "location": [
+                "Courtesy Vending",
+                "VendScreen",
+                "PayRange"
+            ]
+        },
+        {
+            "name": "Salesforce",
+            "type": "Customer Relationship Management",
+            "image": "https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg",
+            "use": "Leads, sales, service, order management, workflows, pipeline reporting.",
+            "time": "3-years",
+            "location": [
+                "PayRange"
+            ]
+        },
+        {
+            "name": "Slack",
+            "type": "Team Communication",
+            "image": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/2019-01_BrandRefresh_Old-to-New-Final.gif",
+            "use": "Direct message, message in channels, file sharing, code snippets, voice and video calls.",
+            "time": "4-years",
+            "location": [
+                "PayRange",
+                "Autobidmaster",
+                "EasyHaul",
+                "ClearVin",
+                "SalvageBid",
+                "Clark College"
+            ]
+        },
+        {
+            "name": "Trello",
+            "type": "Project Management",
+            "image": "https://images.ctfassets.net/8j5aqoy0ts8s/75cMeFGBYQoFvta1d8TRpN/3b976637a0a6994cedeef441d25b618b/logo-gradient-blue-trello.svg",
+            "use": "Manage projects, organize tasks, track progress.",
+            "time": "1-year",
+            "location": [
+                "PayRange",
+                "Clark College"
+            ]
+        },
+        {
+            "name": "WordPress",
+            "type": "Content Management",
+            "image": "https://s.w.org/style/images/about/standard.png",
+            "use": "Website creation, plugin management, SEO, content management.",
+            "time": "5-year",
+            "location": [
+                "PayRange",
+                "Autobidmaster",
+                "Clark College"
+            ]
+        },
+        {
+            "name": "Zendesk",
+            "type": "Ticket Management",
+            "image": "https://assets.website-files.com/5a0242c3d47dd70001e5b2e9/5cac60e3f8d44d025118d7fa_medium.svg",
+            "use": "Data & analytics, support, guide, chat, talk.",
+            "time": "5-years",
+            "location": [
+                "PayRange",
+                "Autobidmaster",
+                "EasyHaul"
+            ]
+        }
+    ]
+}
