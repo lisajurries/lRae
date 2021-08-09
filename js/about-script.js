@@ -9,7 +9,7 @@ fetch('JSON/JSONforAbout-software.json')
         software.append(th)
 
         data.software.forEach(item => {
-
+            console.log(data)
             let tr = document.createElement('tr')
             software.appendChild(tr)
 

@@ -1,6 +1,6 @@
 body {
     font-family: 'Actor', sans-serif;
-    background-color: lightgrey;
+    background-color: #e0e0e0;
     font-size: 18px;
     position: relative;
 }
@@ -21,4 +21,19 @@ body {
 
 .wordpress {
     color: #504E4E;
+}
+
+.stack-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* align-items: flex-end; */
+}
+
+.stack-menu-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding-right: 15px;
 }
