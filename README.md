@@ -1,2 +1,2 @@
-# lrae
-Portfolio site for Lisa Jurries
+# Lisa Jurries
+Future home of my portfolio site
