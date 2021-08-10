@@ -59,14 +59,8 @@
             </div>
 
             <div class="row">
-                <div class="col-lg-10">
+                <div class="col-lg-12">
                     <p class="mt-2 fs-4 lh-base">Set to graduate at the end of August 2021 with an Associate in Applied Technology in the Web Development Program from Clark College in Vancouver, Washington.</p>
-                </div>
-                <div class="col-lg-2 mt-5">
-                    <form class="d-flex">
-                        <input class="form-control mr-sm-2" type="search" placeholder="Search Resume" aria-label="Search">
-                        <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Go</button>
-                    </form>
                 </div>
             </div>
 
@@ -77,7 +71,7 @@
                         <p>Seeking full-time junior web developer position with a cutting-edge startup to continue to advance my technical knowledge and skill. Willing to learn, listen and follow direction as well as lead when needed.</p>
                     </div>
 
-                    <div class="ms-3 mt-5">
+                    <div class="ms-3 mt-5 mb-5">
                         <h2 id="strengths">Strenghts</h2>
                         <ul class="lh-lg">
                             <li><strong>Problem solver</strong> | Ability to analyze information and create effective systems where none exist</li>
@@ -128,13 +122,31 @@
                     </div>
 
                     <div class="ms-3 mt-5 mb-5 lh-lg">
+                        <h2 id="competency">Software</h2>
+                        <div class="table-responsive">
+                            <table class="table fs-6">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Name</th>
+                                        <th scope="col">Type</th>
+                                        <th scope="col">Use</th>
+                                        <th scope="col">Length | Location</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="justify-content-start" id="software">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="ms-3 mt-5 mb-5 lh-lg">
                         <h2 id="experience">Work Experience</h2>
-                        <h4 id="fastfire"><strong>Management Consultant</strong> | Fastfire Services</h4>
+                        <h4 class="mt-5" id="fastfire"><strong>Management Consultant</strong> | Fastfire Services</h4>
                         <h5 class=" ms-5"><strong>Clients:</strong> Autobidmaster, ClearVin, EasyHaul, PayRange, Salvagebid
                         </h5>
                         <h5 class="fst-italic mt-3">March 2013 - Present</h5>
                         <div>
-                            <ul class="lh-lg">
+                            <ul>
                                 <li>Advise clients on Zendesk implementation and assist with contract negotiations</li>
                                 <li>Review, update, and document support department processes and polices</li>
                                 <li>Setup, implement, and coordinate shift schedules and escalation coverage for national and international support teams </li>
@@ -180,24 +192,6 @@
                             </ul>
                         </div>
                     </div>
-
-                    <div class="ms-3 mt-5 mb-5 lh-lg">
-                        <h2 id="competency">Software</h2>
-                        <div class="table-responsive">
-                            <table class="table fs-6">
-                                <thead>
-                                    <tr>
-                                        <th scope="col">Name</th>
-                                        <th scope="col">Type</th>
-                                        <th scope="col">Use</th>
-                                        <th scope="col">Length | Location</th>
-                                    </tr>
-                                </thead>
-                                <tbody class="justify-content-start" id="software">
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
                 </div>
 
                 <div class="col-2 mt-4">
@@ -209,15 +203,17 @@
                             <a class="nav-link mt-3 text-black-50" href="#strengths">Strenghts</a>
                             <a class="nav-link mt-3 text-black-50" href="#education">Education</a>
                             <a class="nav-link mt-3 text-black-50" href="#projects">Projects</a>
-                            <a class="nav-link mt-3 text-black-50" href="#experience">Work Experience</a>
+                            <nav class="nav nav-pill flex-column">
+                                <a class="nav-link mt-3 text-black-50" href="#competency">Software</a>
+                            </nav>
+                            <nav class="nav nav-pill flex-column">
+                                <a class="nav-link mt-3 text-black-50" href="#experience">Work Experience</a>
+                            </nav>
                             <nav class="nav nav-pill flex-column">
                                 <a class="nav-link text-black-50 fst-italic ms-3" href="#fastfire">Fastfire</a>
                                 <a class="nav-link text-black-50 fst-italic ms-3" href="#payrange">Payrange</a>
                                 <a class="nav-link text-black-50 fst-italic ms-3" href="#vendscreen">VendScreen</a>
                                 <a class="nav-link text-black-50 fst-italic ms-3" href="#courtesy">Courtesy</a>
-                            </nav>
-                            <nav class="nav nav-pill flex-column">
-                                <a class="nav-link mt-3 text-black-50" href="#competency">Software</a>
                             </nav>
                         </nav>
                     </nav>
