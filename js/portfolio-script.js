@@ -18,7 +18,7 @@ fetch('JSON/JSONforPortfolio-cards.json')
 
             // //card image
             let img = document.createElement('img')
-            img.setAttribute('src', item.type.[0].image)
+            img.setAttribute('src', item.type.api.image)
             img.classList.add('card-img-top')
             img.classList.add('img-fluid')
             cards.appendChild(img)
