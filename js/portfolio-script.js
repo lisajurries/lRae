@@ -2,9 +2,9 @@ fetch('JSON/JSONforPortfolio-cards.json')
     .then(response => response.json())
     .then(data => {
 
-        const select = document.querySelector('#section')
+        const section = document.querySelector('#section')
 
-        data.results.forEach(function (story) {
+        data.section.forEach(item => {
 
             console.log(data)
             let cards = document.querySelector('#cards')
@@ -14,19 +14,19 @@ fetch('JSON/JSONforPortfolio-cards.json')
             let card = document.createElement('div')
             card.classList.add('card')
             card.classList.add('shadow')
-            card.appendChild(card)
+            section.appendChild(card)
 
             // //card image
             let img = document.createElement('img')
-            img.setAttribute('src', story.image)
+            img.setAttribute('src', type.image)
             img.classList.add('card-img-top')
             img.classList.add('img-fluid')
-            card.appendChild(img)
+            section.appendChild(img)
 
             //card inner div
             let div = document.createElement('div')
             div.classList.add('card-body')
-            card.append(div)
+            div.append(div)
 
             //h5 in inner div
             let h5 = document.createElement('h5')
@@ -38,13 +38,13 @@ fetch('JSON/JSONforPortfolio-cards.json')
             //p in inner div
             let p = document.createElement('p')
             p.classList.add('card-text')
-            p.innerHTML = `<div class="mt-2"> ${story.exerpt} </div>`
+            p.innerHTML = `<div class="mt-2"> ${type.exerpt} </div>`
             div.appendChild(p)
 
             //button in inner div
             let a = document.createElement('a')
             a.innerText = 'Read More'
-            a.setAttribute('href', story.link)
+            a.setAttribute('href', type.link)
             a.classList.add('btn')
             a.classList.add('btn-dark')
             div.appendChild(a)
