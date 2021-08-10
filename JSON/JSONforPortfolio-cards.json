@@ -15,26 +15,6 @@
                     "link": ""
                 }
             ],
-            "c": [
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                }
-            ],
             "css": [
                 {
                     "title": "",
@@ -70,6 +50,20 @@
                 },
                 {
                     "title": "The Road Less Traveled",
+                    "exerpt": "",
+                    "image": "",
+                    "link": ""
+                }
+            ],
+            "google sites": [
+                {
+                    "title": "Blog - Challenging Racism: The Social Movement of BLM",
+                    "exerpt": "",
+                    "image": "",
+                    "link": ""
+                },
+                {
+                    "title": "Blog - Group Assignment - Cajou Creamery",
                     "exerpt": "",
                     "image": "",
                     "link": ""
@@ -205,7 +199,7 @@
             ],
             "ux": [
                 {
-                    "title": "Proto Personas",
+                    "title": "User Personas",
                     "exerpt": "",
                     "image": "",
                     "link": ""
@@ -218,6 +212,12 @@
                 },
                 {
                     "title": "Usability Testing",
+                    "exerpt": "",
+                    "image": "",
+                    "link": ""
+                },
+                {
+                    "title": "Website Map",
                     "exerpt": "",
                     "image": "",
                     "link": ""

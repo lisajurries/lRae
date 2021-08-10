@@ -32,6 +32,26 @@
             ]
         },
         {
+            "name": "Bootstrap",
+            "type": "CSS Framework",
+            "image": "",
+            "use": "CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+            "time": "1-year",
+            "location": [
+                "Clark College"
+            ]
+        },
+        {
+            "name": "Chrome Dev Tools",
+            "type": "Tool",
+            "image": "",
+            "use": "",
+            "time": "1-year",
+            "location": [
+                "Clark College"
+            ]
+        },
+        {
             "name": "Fishbowl Inventory",
             "type": "Inventory Management",
             "image": "https://www.fishbowlinventory.com/themes/custom/fishbowl/images/logo.png",
@@ -39,6 +59,16 @@
             "time": "5-years",
             "location": [
                 "PayRange"
+            ]
+        },
+        {
+            "name": "JSON",
+            "type": "Language",
+            "image": "",
+            "use": "Human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays.",
+            "time": "1-year",
+            "location": [
+                "Clark College"
             ]
         },
         {
@@ -97,6 +127,16 @@
             "time": "3-years",
             "location": [
                 "PayRange"
+            ]
+        },
+        {
+            "name": "SQL",
+            "type": "Language",
+            "image": "",
+            "use": "",
+            "time": "1-year",
+            "location": [
+                "Clark College"
             ]
         },
         {
