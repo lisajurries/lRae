@@ -44,7 +44,7 @@
             "data": [
                 {
                     "title": "Now Page",
-                    "excerpt": "Create a current events NOW Page design.",
+                    "excerpt": "Create a current events Now Page design.",
                     "image": "img/card-nowPage2.jpg",
                     "category": [
                         "Figma"
@@ -121,7 +121,7 @@
                 },
                 {
                     "title": "Note Taker App",
-                    "excerpt": "Created an app to allow user to post and delete notes.",
+                    "excerpt": "Created an app to post and delete notes.",
                     "image": "img/card-noteTaker2.jpg",
                     "category": [
                         "HTML",
