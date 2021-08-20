@@ -1,53 +1,91 @@
+section = document.querySelector('#section')
+
 fetch('JSON/JSONforPortfolio-cards.json')
     .then(response => response.json())
     .then(data => {
 
-        const section = document.querySelector('#section')
+        console.log(data)
 
-        data.type.forEach(item => {
+        data.items.forEach(item => {
 
-            console.log(data)
-            let cards = document.querySelector('#cards')
-            cards.innerHTML = ''
+            //create row
+            let row = document.createElement('div')
+            row.classList.add('row')
+            row.classList.add('mt-4')
 
-            //card div
-            let card = document.createElement('div')
-            card.classList.add('card')
-            card.classList.add('shadow')
-            section.appendChild(card)
+            //create column
+            let col = document.createElement('div')
+            col.classList.add('col-md-12')
+            col.classList.add('d-flex')
+            col.classList.add('justify-content-around')
+            col.classList.add('flex-wrap')
 
-            // //card image
-            let img = document.createElement('img')
-            img.setAttribute('src', item.type.api.image)
-            img.classList.add('card-img-top')
-            img.classList.add('img-fluid')
-            cards.appendChild(img)
+            section.appendChild(row)
+            row.appendChild(col)
 
-            //card inner div
-            let div = document.createElement('div')
-            div.classList.add('card-body')
-            cards.append(div)
+            item.data.forEach(group => {
 
-            //h5 in inner div
-            let h5 = document.createElement('h5')
-            h5.innerText = item.type[0].title
-            h5.classList.add('fw-bold')
-            h5.classList.add('card-title')
-            div.appendChild(h5)
+                //card div
+                let card = document.createElement('div')
+                card.classList.add('card')
+                card.classList.add('shadow')
+                card.classList.add('rounded')
+                card.classList.add('mt-5')
+                card.classList.add('border')
+                card.classList.add('border-info')
 
-            //p in inner div
-            let p = document.createElement('p')
-            p.classList.add('card-text')
-            p.innerHTML = `<div class="mt-2"> ${item.type[0].exerpt} </div>`
-            div.appendChild(p)
+                // //card image
+                let image = document.createElement('img')
+                image.src = group.image
+                image.classList.add('card-img-top')
+                image.classList.add('img-fluid')
+                image.classList.add('border-top')
+                image.classList.add('border-bottom')
 
-            //button in inner div
-            let a = document.createElement('a')
-            a.innerText = 'Read More'
-            a.setAttribute('href', item.type[0].link)
-            a.classList.add('btn')
-            a.classList.add('btn-dark')
-            div.appendChild(a)
+                // //card inner div
+                let body = document.createElement('div')
+                body.classList.add('card-body')
+                body.append(card)
 
+                //h5 in inner div
+                let title = document.createElement('h4')
+                title.innerText = group.title
+                title.classList.add('card-title')
+                title.classList.add('p-2')
+
+                //p for inner div
+                let category = document.createElement('span')
+                category.innerHTML = group.category.join(' | ')
+                category.classList.add('text-center')
+                category.classList.add('mt-2')
+                category.classList.add('mb-2')
+                category.classList.add('fs-6')
+
+                //p in inner div
+                let description = document.createElement('p')
+                description.classList.add('card-text')
+                description.innerHTML = group.excerpt
+                description.classList.add('ms-2')
+
+                //button in inner div
+                let link = document.createElement('a')
+                link.innerText = 'Pending'
+                link.setAttribute('href', group.link)
+                link.classList.add('btn')
+                link.classList.add('btn-outline-info')
+                link.classList.add('text-center')
+                link.classList.add('ms-2')
+                link.classList.add('mb-2')
+
+
+                card.appendChild(title)
+                card.appendChild(description)
+                card.appendChild(image)
+                card.appendChild(category)
+                card.appendChild(link)
+                col.appendChild(card)
+
+            })
         })
+
     })

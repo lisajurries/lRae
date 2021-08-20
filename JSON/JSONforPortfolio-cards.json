@@ -1,239 +1,276 @@
 {
-    "type": [
+    "items": [
         {
-            "api": [
+            "group": "one",
+            "data": [
                 {
                     "title": "New York Times API",
-                    "exerpt": "Create a website using the NYT API.",
-                    "image": "",
+                    "excerpt": "Create a website using an API.",
+                    "image": "img/card-newYorkTimes2.jpg",
+                    "category": [
+                        "API",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Bootstrap"
+                    ],
+                    "link": "page-template.html"
+                },
+                {
+                    "title": "Picture Switcher",
+                    "excerpt": "Create a website that switches images.",
+                    "image": "img/Card-pictureSwitcher.jpg",
+                    "category": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "Open Weather",
-                    "exerpt": "Create a website using the Open Weather API.",
-                    "image": "",
+                    "title": "CSS Flexbox",
+                    "excerpt": "Create a specific design with flexbox.",
+                    "image": "img/card-flexbox3.jpg",
+                    "category": [
+                        "HTML",
+                        "CSS"
+                    ],
                     "link": ""
                 }
-            ],
-            "css": [
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                }
-            ],
-            "figma": [
-                {
-                    "title": "Best Electronics",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
+            ]
+        },
+        {
+            "group": "two",
+            "data": [
                 {
                     "title": "Now Page",
-                    "exerpt": "",
-                    "image": "",
+                    "excerpt": "Create a current events NOW Page design.",
+                    "image": "img/card-nowPage2.jpg",
+                    "category": [
+                        "Figma"
+                    ],
+                    "link": ""
+                },
+                {
+                    "title": "Best Electronics",
+                    "excerpt": "Improve an existing website design.",
+                    "image": "img/card-bestElectronics3.jpg",
+                    "category": [
+                        "Figma"
+                    ],
                     "link": ""
                 },
                 {
                     "title": "The Road Less Traveled",
-                    "exerpt": "",
-                    "image": "",
+                    "excerpt": "Create a website design.",
+                    "image": "img/card-roadLessTraveled2.jpg",
+                    "category": [
+                        "Figma"
+                    ],
                     "link": ""
                 }
-            ],
-            "google sites": [
+            ]
+        },
+        {
+            "group": "three",
+            "data": [
                 {
-                    "title": "Blog - Challenging Racism: The Social Movement of BLM",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Blog - Black Lives Matter",
+                    "excerpt": "Create a blog post. ",
+                    "image": "img/card-blogBLM2.jpg",
+                    "category": [
+                        "Google Sites"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "Blog - Group Assignment - Cajou Creamery",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Random Order",
+                    "excerpt": "Create an image for an oxymoron.",
+                    "image": "img/card-oxymoronRandomOrder.jpg",
+                    "category": [
+                        "Photoshop"
+                    ],
                     "link": ""
-                }
-            ],
-            "html": [
+                },
                 {
-                    "title": "My Professional Headshot",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Blog - Cajou Creamery",
+                    "excerpt": "Create a blog post.",
+                    "image": "img/card-blogCajou2.JPG",
+                    "category": [
+                        "Google Sites"
+                    ],
                     "link": ""
                 }
-            ],
-            "javascript": [
+            ]
+        },
+        {
+            "group": "four",
+            "data": [
+                {
+                    "title": "Open Weather API",
+                    "excerpt": "Create a website using an API.",
+                    "image": "img/card-openWeather.jpg",
+                    "category": [
+                        "API",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Bootstrap"
+                    ],
+                    "link": ""
+                },
                 {
                     "title": "Note Taker App",
-                    "exerpt": "",
-                    "image": "",
+                    "excerpt": "Created an app to allow user to post and delete notes.",
+                    "image": "img/card-noteTaker2.jpg",
+                    "category": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "CSS Grids",
+                    "excerpt": "Create a specific design with grids.",
+                    "image": "img/card-grids2.jpg",
+                    "category": [
+                        "HTML",
+                        "CSS"
+                    ],
                     "link": ""
                 }
-            ],
-            "markdown": [
+            ]
+        },
+        {
+            "group": "five",
+            "data": [
                 {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Temp Center",
+                    "excerpt": "Create a temperature converter.",
+                    "image": "img/card-tempCenter2.jpg",
+                    "category": [
+                        "PHP",
+                        "CSS",
+                        "HTML",
+                        "Bootstrap"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Digital Clock Center",
+                    "excerpt": "Create a digital clock.",
+                    "image": "img/card-digitalClock2.jpg",
+                    "category": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "CTEC 277 Blog",
+                    "excerpt": "Create a blog that uses a database.",
+                    "image": "img/card-ctec227blog.jpg",
+                    "category": [
+                        "SQL",
+                        "PHP",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap"
+                    ],
                     "link": ""
                 }
-            ],
-            "photoshop": [
-                {
-                    "title": "Animated Gif",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
+            ]
+        },
+        {
+            "group": "six",
+            "data": [
                 {
                     "title": "Dreamscape Montage",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "Photo Retouching",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                }
-                {
-                    "title": "Veggie Head",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                }
-            ],
-            "php": [
-                {
-                    "title": "Student Survey",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "Temperature Converter",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                }
-            ],
-            "python": [
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                }
-            ],
-            "sql": [
-                {
-                    "title": "Image Gallery",
-                    "exerpt": "",
-                    "image": "",
+                    "excerpt": "Create a dreamscape montage.",
+                    "image": "img/card-dreamscape2.jpg",
+                    "category": [
+                        "Photoshop"
+                    ],
                     "link": ""
                 },
                 {
                     "title": "Registration and Login",
-                    "exerpt": "",
-                    "image": "img/loginAndRegistration.JPG",
+                    "excerpt": "Add registration and login to a project.",
+                    "image": "img/card-register2.jpg",
+                    "category": [
+                        "SQL",
+                        "PHP",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap"
+                    ],
+                    "link": ""
+                },
+                {
+                    "title": "Image Gallery",
+                    "excerpt": "Create a user image gallery.",
+                    "image": "img/card-imageGallery2.jpg",
+                    "category": [
+                        "SQL",
+                        "PHP",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap"
+                    ],
                     "link": ""
                 }
-            ],
-            "ux": [
+            ]
+        },
+        {
+            "group": "seven",
+            "data": [
                 {
-                    "title": "User Personas",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Student Record Manager",
+                    "excerpt": "Add functionality to database code.",
+                    "image": "img/card-studentRecordManager.jpg",
+                    "category": [
+                        "SQL",
+                        "PHP",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "UI Experience",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Danny G. Friendly",
+                    "excerpt": "Create a person from fruits and vegetables.",
+                    "image": "img/card-DannyGFriendly3.jpg",
+                    "category": [
+                        "Photoshop"
+                    ],
                     "link": ""
                 },
                 {
-                    "title": "Usability Testing",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "Website Map",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Student Survey",
+                    "excerpt": "Create a website with multiple forms.",
+                    "image": "img/card-studentSurvey.jpg",
+                    "category": [
+                        "PHP",
+                        "CSS",
+                        "HTML"
+                    ],
                     "link": ""
                 }
-            ],
-            "wordpress": [
+            ]
+        },
+        {
+            "group": "eight",
+            "data": [
                 {
-                    "title": "Farm Fresh PNW",
-                    "exerpt": "",
-                    "image": "",
-                    "link": ""
-                },
-                {
-                    "title": "Project of a Lifetime",
-                    "exerpt": "",
-                    "image": "",
+                    "title": "Animated Gif",
+                    "excerpt": "Create a simple animated Gif.",
+                    "image": "img/card-animatedGIF.gif",
+                    "category": [
+                        "Photoshop"
+                    ],
                     "link": ""
                 }
             ]

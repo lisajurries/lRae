@@ -1,13 +1,14 @@
 body {
     font-family: 'Actor', sans-serif;
-    background-color: white;
+    background-color: #F2F2F2;
     font-size: 18px;
     position: relative;
+    color: #143540;
 }
 
 .logo {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 125px;
+    max-height: 125px;
 }
 
 #hero {
@@ -43,4 +44,32 @@ body {
         position: sticky;
         margin-top: 20px;
     }
+}
+
+.card {
+    width: 350px;
+}
+
+h1, h3, h5 {
+    color: #286A80;
+}
+
+h2, h4, h6 {
+    color: #47BEE6;
+}
+
+a:link, a:visited {
+    color: #143540;
+}
+
+a:hover, a:active {
+    color: #47BEE6;
+}
+
+.btn {
+    max-width: 100px;
+}
+
+.title {
+    color: black;
 }

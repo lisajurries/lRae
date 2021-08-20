@@ -1,15 +1,17 @@
+const software = document.querySelector('#software')
+
 fetch('JSON/JSONforAbout-software.json')
     .then(response => response.json())
     .then(data => {
 
-        const software = document.querySelector('#software')
-
-        let th = document.createElement('th')
-        th.setAttribute('scope', 'row')
-        software.append(th)
+        console.log(data)
 
         data.software.forEach(item => {
-            console.log(data)
+
+            let th = document.createElement('th')
+            th.setAttribute('scope', 'row')
+            software.append(th)
+
             let tr = document.createElement('tr')
             software.appendChild(tr)
 
