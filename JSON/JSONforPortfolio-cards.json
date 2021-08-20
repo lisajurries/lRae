@@ -14,7 +14,7 @@
                         "JavaScript",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page-template.html"
                 },
                 {
                     "title": "Picture Switcher",
