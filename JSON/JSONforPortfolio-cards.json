@@ -5,7 +5,7 @@
             "data": [
                 {
                     "title": "New York Times API",
-                    "excerpt": "Create a website using an API.",
+                    "excerpt": "Created a website using an API.",
                     "image": "img/card-newYorkTimes2.jpg",
                     "category": [
                         "API",
@@ -14,28 +14,28 @@
                         "JavaScript",
                         "Bootstrap"
                     ],
-                    "link": "page-template.html"
+                    "link": "page1-nyt.html"
                 },
                 {
                     "title": "Picture Switcher",
-                    "excerpt": "Create a website that switches images.",
+                    "excerpt": "Created a website that switches images.",
                     "image": "img/card-pictureSwitcher.jpg",
                     "category": [
                         "HTML",
                         "CSS",
                         "JavaScript"
                     ],
-                    "link": ""
+                    "link": "page2-picswitcher.html"
                 },
                 {
                     "title": "CSS Flexbox",
-                    "excerpt": "Create a specific design with flexbox.",
+                    "excerpt": "Created a specific design with CSS flexbox.",
                     "image": "img/card-flexbox3.jpg",
                     "category": [
                         "HTML",
                         "CSS"
                     ],
-                    "link": ""
+                    "link": "page3-flexbox.html"
                 }
             ]
         },
@@ -44,30 +44,30 @@
             "data": [
                 {
                     "title": "Now Page",
-                    "excerpt": "Create a current events Now Page design.",
+                    "excerpt": "Created a current events Now Page design.",
                     "image": "img/card-nowPage2.jpg",
                     "category": [
                         "Figma"
                     ],
-                    "link": ""
+                    "link": "page4-nowpage.html"
                 },
                 {
                     "title": "Best Electronics",
-                    "excerpt": "Improve an existing website design.",
+                    "excerpt": "Improved an existing website design.",
                     "image": "img/card-bestElectronics3.jpg",
                     "category": [
                         "Figma"
                     ],
-                    "link": ""
+                    "link": "page5-bestelectronics.html"
                 },
                 {
                     "title": "The Road Less Traveled",
-                    "excerpt": "Create a website design.",
+                    "excerpt": "Created a website design.",
                     "image": "img/card-roadLessTraveled2.jpg",
                     "category": [
                         "Figma"
                     ],
-                    "link": ""
+                    "link": "page6-roadlesstraveled.html"
                 }
             ]
         },
@@ -76,30 +76,30 @@
             "data": [
                 {
                     "title": "Blog - Black Lives Matter",
-                    "excerpt": "Create a blog post. ",
+                    "excerpt": "Created a blog post. ",
                     "image": "img/card-blogBLM2.jpg",
                     "category": [
                         "Google Sites"
                     ],
-                    "link": ""
+                    "link": "page7-blogBLM.html"
                 },
                 {
                     "title": "Random Order",
-                    "excerpt": "Create an image for an oxymoron.",
+                    "excerpt": "Created an image for an oxymoron.",
                     "image": "img/card-oxymoronRandomOrder.jpg",
                     "category": [
                         "Photoshop"
                     ],
-                    "link": ""
+                    "link": "page8-randomorder.html"
                 },
                 {
                     "title": "Blog - Cajou Creamery",
-                    "excerpt": "Create a blog post.",
+                    "excerpt": "Created a blog post.",
                     "image": "img/card-blogCajou2.jpg",
                     "category": [
                         "Google Sites"
                     ],
-                    "link": ""
+                    "link": "page9-blogCC.html"
                 }
             ]
         },
@@ -108,8 +108,8 @@
             "data": [
                 {
                     "title": "Open Weather API",
-                    "excerpt": "Create a website using an API.",
-                    "image": "img/card-openWeather.jpg",
+                    "excerpt": "Created a website using an API.",
+                    "image": "img/card-openWeather2.jpg",
                     "category": [
                         "API",
                         "HTML",
@@ -117,28 +117,28 @@
                         "JavaScript",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page10-openweather.html"
                 },
                 {
                     "title": "Note Taker App",
-                    "excerpt": "Created an app to post and delete notes.",
+                    "excerpt": "Created a website to post and delete notes.",
                     "image": "img/card-noteTaker2.jpg",
                     "category": [
                         "HTML",
                         "CSS",
                         "JavaScript"
                     ],
-                    "link": ""
+                    "link": "page11-notetaker.html"
                 },
                 {
                     "title": "CSS Grids",
-                    "excerpt": "Create a specific design with grids.",
+                    "excerpt": "Created a specific design with CSS grids.",
                     "image": "img/card-grids2.jpg",
                     "category": [
                         "HTML",
                         "CSS"
                     ],
-                    "link": ""
+                    "link": "page12-grids.html"
                 }
             ]
         },
@@ -147,7 +147,7 @@
             "data": [
                 {
                     "title": "Temp Center",
-                    "excerpt": "Create a temperature converter.",
+                    "excerpt": "Created a temperature converter website.",
                     "image": "img/card-tempCenter2.jpg",
                     "category": [
                         "PHP",
@@ -155,22 +155,22 @@
                         "HTML",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page13-tempcenter.html"
                 },
                 {
                     "title": "Digital Clock Center",
-                    "excerpt": "Create a digital clock.",
+                    "excerpt": "Created a digital clock website.",
                     "image": "img/card-digitalClock2.jpg",
                     "category": [
                         "HTML",
                         "CSS",
                         "JavaScript"
                     ],
-                    "link": ""
+                    "link": "page14-clock.html"
                 },
                 {
                     "title": "CTEC 277 Blog",
-                    "excerpt": "Create a blog that uses a database.",
+                    "excerpt": "Created a blog that uses a database.",
                     "image": "img/card-ctec227blog.jpg",
                     "category": [
                         "SQL",
@@ -179,7 +179,7 @@
                         "CSS",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page15-ctec227blog.html"
                 }
             ]
         },
@@ -188,16 +188,16 @@
             "data": [
                 {
                     "title": "Dreamscape Montage",
-                    "excerpt": "Create a dreamscape montage.",
+                    "excerpt": "Created a dreamscape montage.",
                     "image": "img/card-dreamscape2.jpg",
                     "category": [
                         "Photoshop"
                     ],
-                    "link": ""
+                    "link": "page16-dreamscape.html"
                 },
                 {
                     "title": "Registration and Login",
-                    "excerpt": "Add registration and login to a project.",
+                    "excerpt": "Added registration and login to a project.",
                     "image": "img/card-register2.jpg",
                     "category": [
                         "SQL",
@@ -206,11 +206,11 @@
                         "CSS",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page17-login.html"
                 },
                 {
                     "title": "Image Gallery",
-                    "excerpt": "Create a user image gallery.",
+                    "excerpt": "Created a user image gallery.",
                     "image": "img/card-imageGallery2.jpg",
                     "category": [
                         "SQL",
@@ -219,7 +219,7 @@
                         "CSS",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page18-imagegallery.html"
                 }
             ]
         },
@@ -228,7 +228,7 @@
             "data": [
                 {
                     "title": "Student Record Manager",
-                    "excerpt": "Add functionality to database code.",
+                    "excerpt": "Added functionality to database website.",
                     "image": "img/card-studentRecordManager.jpg",
                     "category": [
                         "SQL",
@@ -237,27 +237,27 @@
                         "CSS",
                         "Bootstrap"
                     ],
-                    "link": ""
+                    "link": "page19-studentrecord.html"
                 },
                 {
                     "title": "Danny G. Friendly",
-                    "excerpt": "Create a person from fruits and vegetables.",
+                    "excerpt": "Created a person from fruits and vegetables.",
                     "image": "img/card-DannyGFriendly3.jpg",
                     "category": [
                         "Photoshop"
                     ],
-                    "link": ""
+                    "link": "page20-dannygfriendly.html"
                 },
                 {
                     "title": "Student Survey",
-                    "excerpt": "Create a website with multiple forms.",
+                    "excerpt": "Created a website with multiple forms.",
                     "image": "img/card-studentSurvey.jpg",
                     "category": [
                         "PHP",
                         "CSS",
                         "HTML"
                     ],
-                    "link": ""
+                    "link": "page21-studentsurvey.html"
                 }
             ]
         },
@@ -266,12 +266,12 @@
             "data": [
                 {
                     "title": "Animated Gif",
-                    "excerpt": "Create a simple animated Gif.",
+                    "excerpt": "Created a simple animated Gif.",
                     "image": "img/card-animatedGIF.gif",
                     "category": [
                         "Photoshop"
                     ],
-                    "link": ""
+                    "link": "page22-animatedGIF.html"
                 }
             ]
         }

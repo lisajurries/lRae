@@ -38,8 +38,16 @@ body {
     padding-inline-end: 20px;
 }
 
+.side-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    margin-right: 10px;
+}
+
 @media only screen and (max-width: 768px) {
-    .stack-menu {
+    .stack-menu, .side-menu {
         flex-direction: row;
         position: sticky;
         margin-top: 20px;
@@ -68,8 +76,4 @@ a:hover, a:active {
 
 .btn {
     max-width: 100px;
-}
-
-.title {
-    color: black;
 }
