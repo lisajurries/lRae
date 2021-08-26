@@ -29,6 +29,7 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: flex-start;
+    width: 100px;
 }
 
 .stack-top {
@@ -47,7 +48,8 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    /* padding-inline-end: 20px; */
+    /* padding: 20px; */
+    width: 100px;
 }
 
 .side-menu {
@@ -55,14 +57,32 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: flex-end;
-    margin-right: 10px;
+    width: 100%;
+}
+
+.side-top {
+    z-index: 1;
+}
+
+.side-bottom {
+    z-index: 2;
 }
 
 @media only screen and (max-width: 768px) {
-    .stack-menu, .side-menu {
+    .stack-menu {
         flex-direction: row;
-        position: sticky;
         margin-top: 20px;
+        position: sticky;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .side-menu {
+        flex-direction: row;
+        margin-top: 20px;
+        position: sticky;
+        width: 100%;
     }
 }
 
