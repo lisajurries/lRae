@@ -60,6 +60,7 @@ fetch('JSON/JSONforPortfolio-cards.json')
                 category.classList.add('mt-2')
                 category.classList.add('mb-2')
                 category.classList.add('fs-6')
+                category.classList.add('text-info')
 
                 //p in inner div
                 let description = document.createElement('p')
