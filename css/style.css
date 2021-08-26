@@ -31,11 +31,23 @@ body {
     align-items: flex-start;
 }
 
+.stack-top {
+    z-index: 1;
+}
+
+.stack-mid {
+    z-index: 2;
+}
+
+.stack-bottom {
+    z-index: 3;
+}
+
 .stack-menu-top {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    padding-inline-end: 20px;
+    /* padding-inline-end: 20px; */
 }
 
 .side-menu {
