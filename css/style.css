@@ -48,8 +48,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    /* padding: 20px; */
-    width: 100px;
 }
 
 .side-menu {
