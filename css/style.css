@@ -108,3 +108,8 @@ a:hover, a:active {
 .btn {
     max-width: 100px;
 }
+
+.smaller {
+    max-width: 250px;
+    max-height: 250px;
+}
