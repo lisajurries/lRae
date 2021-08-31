@@ -260,20 +260,6 @@
                     "link": "page21-studentsurvey.html"
                 }
             ]
-        },
-        {
-            "group": "eight",
-            "data": [
-                {
-                    "title": "Animated Gif",
-                    "excerpt": "Created a simple animated Gif.",
-                    "image": "img/card-animatedGIF.gif",
-                    "category": [
-                        "Photoshop"
-                    ],
-                    "link": "page22-animatedGIF.html"
-                }
-            ]
         }
     ]
 }
