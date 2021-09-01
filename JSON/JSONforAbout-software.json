@@ -18,7 +18,8 @@
             "time": "5-years",
             "location": [
                 "PayRange",
-                "Autobidmaster"
+                "Autobidmaster",
+                "EasyHaul"
             ]
         },
         {
@@ -38,17 +39,19 @@
             "use": "CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
             "time": "1-year",
             "location": [
-                "Clark College"
+                "Clark College",
+                "Fastfire Services"
             ]
         },
         {
             "name": "Chrome Dev Tools",
-            "type": "Tool",
+            "type": "Development Tool",
             "image": "",
-            "use": "",
+            "use": "Web developer tools to view and test website code.",
             "time": "1-year",
             "location": [
-                "Clark College"
+                "Clark College",
+                "Fastfire Services"
             ]
         },
         {
@@ -68,7 +71,8 @@
             "use": "Human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays.",
             "time": "1-year",
             "location": [
-                "Clark College"
+                "Clark College",
+                "Fastfire Services"
             ]
         },
         {
@@ -81,7 +85,8 @@
                 "Autobidmaster",
                 "EasyHaul",
                 "ClearVin",
-                "SalvageBid"
+                "SalvageBid",
+                "Fastfire Services"
             ]
         },
         {
@@ -94,7 +99,11 @@
                 "Courtesy Vending",
                 "VendScreen",
                 "PayRange",
-                "Autobidmaster"
+                "Autobidmaster",
+                "EasyHaul",
+                "ClearVin",
+                "SalvageBid",
+                "Fastfire Services"
             ]
         },
         {
@@ -133,10 +142,11 @@
             "name": "SQL",
             "type": "Language",
             "image": "",
-            "use": "",
+            "use": "Structured Query Language used to communicate with databases.",
             "time": "1-year",
             "location": [
-                "Clark College"
+                "Clark College",
+                "Fastfire Services"
             ]
         },
         {
@@ -162,7 +172,8 @@
             "time": "1-year",
             "location": [
                 "PayRange",
-                "Clark College"
+                "Clark College",
+                "Fastfire Services"
             ]
         },
         {
@@ -174,7 +185,8 @@
             "location": [
                 "PayRange",
                 "Autobidmaster",
-                "Clark College"
+                "Clark College",
+                "Fastfire Services"
             ]
         },
         {
