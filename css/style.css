@@ -78,3 +78,7 @@ a:hover, a:active {
 .btn {
     max-width: 100px;
 }
+
+.line {
+    line-height: 1.5;
+}
