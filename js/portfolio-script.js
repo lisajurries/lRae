@@ -70,7 +70,7 @@ fetch('JSON/JSONforPortfolio-cards.json')
 
                 //button in inner div
                 let link = document.createElement('a')
-                link.innerText = 'See More'
+                link.innerText = 'More'
                 link.setAttribute('href', group.link)
                 link.classList.add('btn')
                 link.classList.add('btn-outline-info')
