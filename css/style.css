@@ -132,8 +132,8 @@ hr.two {
     animation-name: hero;
     animation-duration: 2s;
     animation-iteration-count: 1;
-    animation-direction: normal;
-    transition-timing-function: ease-in-out;
+    animation-direction: alternate-reverse;
+    transition-timing-function: ease-out;
 }
 
 @keyframes hero {
@@ -142,15 +142,12 @@ hr.two {
     }
     25% {
         color: #3B9EBF;
-        font-size: x-large;
     }
     50% {
         color: #47Bee6;
-        font-size: x-small;
     }
     75% {
         color: #3B9EBF;
-        font-size: x-large;
     }
     100% {
         color: #47BEE6;
