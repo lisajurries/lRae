@@ -6,10 +6,6 @@ body {
     color: #143540;
 }
 
-.wordpress {
-    color: #143540;
-}
-
 .stack-menu {
     display: flex;
     flex-direction: column;
@@ -30,7 +26,6 @@ body {
     flex-direction: row;
     justify-content: flex-end;
     padding-right: 5px;
-    padding-left: 5px;
 }
 
 .side-menu {
