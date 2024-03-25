@@ -6,21 +6,6 @@ body {
     color: #143540;
 }
 
-.stack-menu {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: flex-start;
-    width: 100px;
-}
-
-.stack-menu-page {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: flex-end;
-}
-
 .stack-menu-top {
     display: flex;
     flex-direction: row;
