@@ -101,6 +101,11 @@ hr.two {
     padding-top: 10px;
 }
 
+.pname {
+    font-family: "Sofia", sans-serif;
+    font-size: 54px;
+}
+
 @media only screen and (max-width: 768px) {
     .icons {
         align-items: center;
