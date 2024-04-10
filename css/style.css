@@ -102,9 +102,18 @@ hr.two {
 }
 
 .pname {
-    font-family: "Sofia", serif;
+    font-family: "Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
     font-size: 54px;
 }
+
+.noto-color emoji-regular {
+    font-family: "Noto Color Emoji", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 
 @media only screen and (max-width: 768px) {
     .icons {
