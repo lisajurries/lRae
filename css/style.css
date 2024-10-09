@@ -81,6 +81,11 @@ a:hover, a:active {
     line-height: 2;
 }
 
+.pkp {
+    text-decoration: none;
+    color: #47BEE6;
+}
+
 hr.one {
     color: #286A80;
     height: 10px;
