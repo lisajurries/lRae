@@ -187,6 +187,30 @@
             ]
         },
         {
+            "name": "Visual Studio",
+            "type": "IDE & Code Editor",
+            "image": "/img/Visual_Studio_Icon-2022.png",
+            "use": "Writing code, debugging, developing web apps, connecting databases.",
+            "time": "2-years",
+            "location": [
+                "Clark College",
+                "Fastfire Services",
+                "Washington State University"
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "type": "IDE & Code Editor",
+            "image": "/img/Visual_Studio_Code_1.35_icon.png",
+            "use": "Writing code, debugging, front-end development.",
+            "time": "2-years",
+            "location": [
+                "Clark College",
+                "Fastfire Services",
+                "Washington State University"
+            ]
+        },
+        {
             "name": "WordPress",
             "type": "Content Management",
             "image": "https://s.w.org/style/images/about/standard.png",
