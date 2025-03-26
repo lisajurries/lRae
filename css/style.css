@@ -237,3 +237,7 @@ hr.two {
         transform: rotate(360deg);
     }
 }
+
+.back {
+    background-color: #f1f4f8;
+}
